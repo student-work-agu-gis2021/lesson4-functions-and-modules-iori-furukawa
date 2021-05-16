@@ -20,7 +20,6 @@
 
 # YOUR CODE HERE
 def fahr_to_celsius(temp_fahrenheit):
-  "Convert form Fahrenheit to Celsius"
   converted_temp=(temp_fahrenheit)
   return converted_temp
 
